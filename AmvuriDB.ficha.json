@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "654d07474b32e9511aee5510"
+  },
+  "idFicha": "3",
+  "fecha": "2023-11-12",
+  "hora": "10:25:30",
+  "departamento": "Huila",
+  "ciudad": "Neiva",
+  "barrio": "Chapinero",
+  "direccion": "Cra 10 G No.25 D - 10",
+  "coord_este": "2.93962",
+  "coord_noorte": "-75.29713",
+  "coord_cota": "23.4",
+  "responsable": "Claudia Marin",
+  "createdAt": {
+    "$date": "2023-11-09T16:22:31.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T22:20:56.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654f9ae48fb2b50ae49d4ba5"
+  },
+  "idFicha": "1",
+  "fecha": "2023-10-23",
+  "hora": "10:25:30",
+  "departamento": "Cauca",
+  "ciudad": "Popayán",
+  "barrio": "Cambulos",
+  "direccion": "Cra 10 G No.25 D - 10",
+  "coord_este": "2.43797",
+  "coord_noorte": "-76.60851",
+  "coord_cota": "23.4",
+  "responsable": "Camilo Sexto",
+  "createdAt": {
+    "$date": "2023-11-11T15:16:52.665Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-17T16:06:45.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654f9b9d8fb2b50ae49d4ba9"
+  },
+  "idFicha": "2",
+  "fecha": "2023-07-02",
+  "hora": "10:25:30",
+  "departamento": "Cundinamarca",
+  "ciudad": "Bogotá",
+  "barrio": "Calamares",
+  "direccion": "Cra 10 G No.25 D - 10",
+  "coord_este": "4.66989",
+  "coord_noorte": "-74.09573",
+  "coord_cota": "23.4",
+  "responsable": "Ximena",
+  "createdAt": {
+    "$date": "2023-11-11T15:19:57.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T15:56:25.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e1e41acf5f5c8c065c85f"
+  },
+  "idFicha": "4",
+  "fecha": "2023-11-22",
+  "hora": "10:26:25",
+  "departamento": "Mendoza",
+  "ciudad": "Buenos Aires",
+  "barrio": "Olvido",
+  "direccion": "Desconocida",
+  "coord_este": "-34.6131500",
+  "coord_noorte": "-58.3772300",
+  "coord_cota": "-58.3772300",
+  "responsable": "Lionel Andrés Messi",
+  "createdAt": {
+    "$date": "2023-11-22T15:29:05.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T15:29:05.410Z"
+  },
+  "__v": 0
+}]
